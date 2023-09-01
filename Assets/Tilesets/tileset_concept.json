@@ -1,0 +1,13 @@
+{
+    "name": "summer",
+    "tiles": ["cliffside 0"],
+    "tile_rules": [
+        {
+            "tile_name": "cliffside 0",
+            "L": [],
+            "R": [],
+            "U": [],
+            "D": []
+        }
+    ]
+}
