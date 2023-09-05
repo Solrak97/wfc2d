@@ -7,7 +7,6 @@ using System.IO;
 public class wfcman : MonoBehaviour
 {
 
-    wfc_tile Tile = new wfc_tile();
     public Vector2 mapScale;
     public TextAsset tileRules;
     public List<Texture> rawTextures;
